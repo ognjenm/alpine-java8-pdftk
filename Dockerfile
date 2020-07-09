@@ -1,5 +1,6 @@
 FROM alpine:3.8.5
 
+
 MAINTAINER Ognjen Miletic https://github.com/ognjenm
 
 ENV JAVA_HOME /usr/lib/jvm/java-1.8-openjdk
